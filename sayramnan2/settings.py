@@ -26,7 +26,7 @@ MEDIA_URL = '/media/'
 SECRET_KEY = 'django-insecure-nmlcf0007*ej%lt4t=ak*o5c=vlwv3&ezcoig_dzk@9&(q0_y)'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', 'sayramnan-test.herokuapp.com']
 
